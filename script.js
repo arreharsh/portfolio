@@ -82,7 +82,7 @@ document.getElementById('contactForm').addEventListener('submit', function(event
 
     // Send email
     emailjs.send("service_gmail", "template_jonybd3", {
-        to_name: 'Harsh Prajapti',
+        to_name: 'Harsh Prajapati',
         from_name: 'Your Portfolio',
         from_email: email, // Include the email address
         message: fullMessage,
