@@ -215,11 +215,12 @@ section {
 
 .home-sci {
     position: absolute;
-    bottom: -4rem;
+    bottom: -2rem;
     width: 170px;
     display: flex;
     justify-content: space-between;
     top: auto;
+    left: 2rem
 }
 
 .home-sci a {
