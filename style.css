@@ -651,9 +651,14 @@ span {
 
 .footer-text,
 .footer-iconTop {
-    position: relative;
+    position: relative; 
 }
-
+.footer-iconTop {
+    position: absolute;
+    right: -27px;
+    margin-bottom: 90px;
+    margin-right: 60px;
+}
 .footer-text p {
     font-size: 1.6rem;
 }
